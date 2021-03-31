@@ -1,0 +1,6 @@
+Månedlig global temperatur     Fil HadCRUT4.dat; dato og global temperaturvariasjon (deg C) er de to første søylene (referanseverdi (eller nullverdi) velger dere selv…)
+·        Månedlig global CO2         Fil co2_mm_gl.txt (forklaring i filen; dere er interessert i fjerde søyle, enhet er ppm)
+·        Månedlig nedbør Norge         Fil 0-jan2des.txt (-999.99 er NaN-verdi; år og de 12 med-verdiene, linje for linje, enhet er mm/mnd)
+·        Månedlig nedbør Vestland        Fil 3-jan2des.txt (som over)
+·        Månedlig nedbør Østland         Fil 1-jan2des.txt (som over)
+·        Månedlig nedbør Nordnorge     Fil 5-jan2des.txt (som over)
