@@ -30,7 +30,9 @@ def loadData(file,rydd='Y'):
 
     # Simply using genfromtxt doesn't work due to caching issues. We need to 
     # read the data from url to a file and THEN give this string to genfromtxt.
-    url = 'https://raw.githubusercontent.com/irendundas/EkteData/main/'+file
+    #url = 'https://raw.githubusercontent.com/irendundas/EkteData/main/'+file
+    url = 'https://raw.githubusercontent.com/irendundas/EkteData/main/data/'+file
+    
     req = requests.get(url)
     f = io.StringIO(req.text)
 
