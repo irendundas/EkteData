@@ -1,5 +1,5 @@
 # EkteData
-Her er det samlet programmeringsoppgaver som er laget for undervisning som del av prosjektet "Ekte Data". 
+Her er programmeringsoppgavene som er laget for undervisning som del av prosjektet "Ekte Data" samlet. 
 
 Fra Ekte Data sin [hjemmeside](https://ektedata.uib.no/):
 *Oppgaver med tall fra virkeligheten. Vi bruker målinger fra vann, land og luft og lager oppgaver i matematikk og naturfag for ulike trinn. Ekte data er utviklet av Geofysisk institutt og Skolelaboratoriet i realfag ved UiB.*
