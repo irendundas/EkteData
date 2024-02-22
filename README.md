@@ -1,5 +1,5 @@
 # EkteData
-Her er programmeringsoppgavene som er laget for undervisning som del av prosjektet "Ekte Data" samlet. 
+Her er programmeringsoppgavene som er laget for undervisning og kurs som del av prosjektet "Ekte Data".
 
 Fra Ekte Data sin [hjemmeside](https://ektedata.uib.no/):
 *Oppgaver med tall fra virkeligheten. Vi bruker målinger fra vann, land og luft og lager oppgaver i matematikk og naturfag for ulike trinn. Ekte data er utviklet av Geofysisk institutt og Skolelaboratoriet i realfag ved UiB.*
@@ -18,3 +18,9 @@ Oppgavene her og i Temperaturoppgaven er ikke overlappende i den forstand at de 
 
 **Nivå 3: Temperaturestriper**
 I denne mappen er det kun en oppgave. Den tar for seg sammenhengen mellom temperatur og CO2 i atmosfæren og hvordan man kan visualisere dette på en god måte. Hva som skjer forklares underveis, men ting som indeksering, bruk av variabler, funksjoner og bibliotek brukes uten å bli forklart i detalj. I denne oppgaven er det også litt fokus på hvordan man presenterer og tolker data på en ærlig måte. 
+
+I mappen **Kom i gang** er en installasjonsguide for python og hvordan du får alle disse filene til PCen din, i tillegg til huskeregler for å kjøre kode, indeksering, innlesing av filer, etc. 
+
+I mappen **Konseptoppgaver** er oppgaver som kun handler om et spesifikt programeringstekninsk konsept. Så langs finnes en oppgave for figurer, funksjoner, løkker, og feilmeldinger. 
+
+Mappen **Funksjoner** inneholder utviklerinnhold. 
